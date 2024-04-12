@@ -1,4 +1,3 @@
-# https-github.com-punam2766-Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS-and-setup-production
 # Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS And Setup Production Mode
 
 
