@@ -262,7 +262,7 @@ sudo chmod o+x /home/dcode-frappe
 After bench restart successfully search your URL in browser without port (like 8000) At that time if page is shown only reloading then allow port on server for that run following command
 
 ```bash
-ufw status
+sudo ufw status
 
 sudo ufw allow 80/tcp
 
